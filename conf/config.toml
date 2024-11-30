@@ -6,9 +6,9 @@ fast_mode = true
 # 支持本地地址（绝对地址）/User/xxx/xx.yml
 # 支持单个订阅链接，ss://xxx
 subs = [
-   "https://raw.githubusercontent.com/hkwpc/kszd11/refs/heads/main/v2",
+   "https://raw.githubusercontent.com/hkwpc/kszd13/refs/heads/main/source/clash-meta.yaml",
    "https://raw.githubusercontent.com/hkwpc/kszd12/refs/heads/main/v2ray.txt",
-   "https://raw.githubusercontent.com/hkwpc/kszd4/refs/heads/main/clash.yml"
+   "https://raw.githubusercontent.com/hkwpc/kszd13/refs/heads/main/source/v2ray.txt"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
@@ -22,7 +22,7 @@ pools = [
     "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
     "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
     "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
-    "https://raw.githubusercontent.com/hkwpc/kszd10/refs/heads/main/sub",
+    "https://raw.githubusercontent.com/hkwpc/kszd7/refs/heads/main/subscribe/v2ray.txt",
     "https://guanxi.us.kg/guanxi"
 ]
 
