@@ -7,7 +7,7 @@ on:
     branches: [ "bach" ]
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+      - cron: "30 2 * * *"
 
 env:
   CARGO_TERM_COLOR: always
