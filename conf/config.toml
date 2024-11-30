@@ -10,7 +10,7 @@ subs = [
    "https://raw.githubusercontent.com/hkwpc/kszd6/refs/heads/main/clash.yaml",
    "https://raw.githubusercontent.com/hkwpc/kszd9/refs/heads/master/all",
    "https://raw.githubusercontent.com/hkwpc/kszd5/refs/heads/master/list.yml",
-   "https://raw.githubusercontent.com/hkwpc/kszd15/refs/heads/main/APIs/cg1.txt"
+   "https://raw.githubusercontent.com/hkwpc/kszd4/refs/heads/main/clash.yml"
 ]
 
 # 是否重命名节点，打开后会使用 geoip 等方式进行代理真实 IP 和地理地址查询
@@ -25,7 +25,7 @@ pools = [
     "https://raw.githubusercontent.com/snakem982/proxypool/main/source/clash-meta.yaml",
     "https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml",
     "https://raw.githubusercontent.com/hkwpc/kszd7/refs/heads/main/subscribe/v2ray.txt",
-    "https://raw.githubusercontent.com/hkwpc/kszd15/refs/heads/main/APIs/cg0.txt"
+    "https://raw.githubusercontent.com/hkwpc/kszd13/refs/heads/main/source/clash-meta-2.yaml"
 ]
 
 # 测试分组大小
