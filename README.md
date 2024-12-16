@@ -1,3 +1,7 @@
+# Declarier and warned: 
+本代码非原创内容，fork自github原作者，仅为本人测试学习之用，github项目上已注明原作者出处，为了尊重与支持原创作者，请勿复制转发，严禁非法商用传播，否则所产生的一切后果，由复制者自行承担！
+Declarier and warned: This code is non -original content. Copy the author of GitHub, which is only for testing and study. In order to respect the original authors, do not copy and forward it. It is strictly forbidden to transmit illegal commercial communication. Otherwise, all the consequences generated will be borne by the replica!
+
 ## Clash Butler
 
 现在 Clash 配置文件如日中天，各种节点都有 Clash 配置文件格式，不过 Clash
