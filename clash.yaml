@@ -72,532 +72,12 @@ dns:
   - https://dns.alidns.com/dns-query
 proxies:
 - cipher: rc4-md5
-  name: 0|--2
+  name: 0|--4
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
-  server: 194.5.215.59
+  server: 79.110.53.169
   type: ss
-- name: 15|CY_speednode_
-  network: ws
-  port: 443
-  server: cnamefuckxxs.yuchen.icu
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_1
-  network: ws
-  port: 443
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_2
-  network: ws
-  port: 2053
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_3
-  network: ws
-  port: 2083
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_5
-  network: ws
-  port: 8443
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_6
-  network: ws
-  port: 2087
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|SE_speednode_7
-  network: ws
-  port: 2096
-  server: www.shopify.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
 - name: 15|US_speednode_1
-  network: ws
-  port: 443
-  server: 172.64.144.132
-  servername: tvmez.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 968f8967-1361-41d5-9769-f6624ef58694
-  ws-opts:
-    headers:
-      Host: tvmez.pages.dev
-    path: /?ed=2560fp=random
-- name: 15|US_speednode_10
-  network: ws
-  port: 2087
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_11
-  network: ws
-  port: 443
-  server: malaysia.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_12
-  network: ws
-  port: 2053
-  server: cloudflare.9jy.cc
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_13
-  network: ws
-  port: 443
-  server: 104.24.185.182
-  servername: tvmez.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 968f8967-1361-41d5-9769-f6624ef58694
-  ws-opts:
-    headers:
-      Host: tvmez.pages.dev
-    path: /?ed=2560fp=random
-- name: 15|US_speednode_14
-  network: ws
-  port: 2087
-  server: cloudflare.9jy.cc
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_15
-  network: ws
-  port: 2053
-  server: cfip.1323123.xyz
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_17
-  network: ws
-  port: 2087
-  server: singapore.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_19
-  network: ws
-  port: 443
-  server: 104.24.92.113
-  servername: tvmez.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 968f8967-1361-41d5-9769-f6624ef58694
-  ws-opts:
-    headers:
-      Host: tvmez.pages.dev
-    path: /?ed=2560fp=random
-- name: 15|US_speednode_20
-  network: ws
-  port: 443
-  server: cfip.1323123.xyz
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_25
-  network: ws
-  port: 2053
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_26
-  network: ws
-  port: 8443
-  server: cf.zerone-cdn.pp.ua
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_28
-  network: ws
-  port: 2053
-  server: cf.090227.xyz
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_3
-  network: ws
-  port: 2087
-  server: japan.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_31
-  network: ws
-  port: 443
-  server: japan.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_36
-  network: ws
-  port: 2083
-  server: japan.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_37
-  network: ws
-  port: 443
-  server: cloudflare.9jy.cc
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_38
-  network: ws
-  port: 2096
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_39
-  network: ws
-  port: 2096
-  server: cf.zhetengsha.eu.org
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_4
-  network: ws
-  port: 443
-  server: 104.24.59.181
-  servername: tvmez.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 968f8967-1361-41d5-9769-f6624ef58694
-  ws-opts:
-    headers:
-      Host: tvmez.pages.dev
-    path: /?ed=2560fp=random
-- name: 15|US_speednode_40
-  network: ws
-  port: 8443
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_42
-  network: ws
-  port: 2083
-  server: russia.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_45
-  network: ws
-  port: 443
-  server: 104.24.23.51
-  servername: tvmez.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: 968f8967-1361-41d5-9769-f6624ef58694
-  ws-opts:
-    headers:
-      Host: tvmez.pages.dev
-    path: /?ed=2560fp=random
-- name: 15|US_speednode_46
-  network: ws
-  port: 2083
-  server: cf.zhetengsha.eu.org
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_47
-  network: ws
-  port: 2083
-  server: cfip.cfcdn.vip
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_49
-  network: ws
-  port: 2083
-  server: cf.090227.xyz
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_53
-  network: ws
-  port: 2087
-  server: cf.zhetengsha.eu.org
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_54
-  network: ws
-  port: 2083
-  server: singapore.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_55
-  network: ws
-  port: 443
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_57
-  network: ws
-  port: 2083
-  server: venom90.pages.dev
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_58
-  network: ws
-  port: 2087
-  server: cf.zerone-cdn.pp.ua
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_59
-  network: ws
-  port: 2096
-  server: cloudflare.9jy.cc
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_60
-  network: ws
-  port: 8443
-  server: malaysia.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_62
   network: ws
   port: 80
   server: 151.101.64.155
@@ -610,116 +90,19 @@ proxies:
     headers:
       Host: iranvpn.com.
     path: /?ed=1024
-- name: 15|US_speednode_63
+- name: 15|US_speednode_2
   network: ws
-  port: 2096
-  server: cf.zerone-cdn.pp.ua
-  servername: venom90.pages.dev
+  port: 80
+  server: speedtest.net
+  servername: foffmelo.com
   skip-cert-verify: false
-  tls: true
+  tls: false
   type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
+  uuid: c7953896-7bb2-4ce2-c7ca-117b2678b47f
   ws-opts:
     headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_64
-  network: ws
-  port: 8443
-  server: cfip.cfcdn.vip
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_65
-  network: ws
-  port: 2083
-  server: cf.zerone-cdn.pp.ua
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_66
-  network: ws
-  port: 2096
-  server: singapore.com
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_67
-  network: ws
-  port: 443
-  server: cfip.cfcdn.vip
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_7
-  network: ws
-  port: 8443
-  server: cfip.1323123.xyz
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_8
-  network: ws
-  port: 2053
-  server: cf.zhetengsha.eu.org
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- name: 15|US_speednode_9
-  network: ws
-  port: 8443
-  server: cloudflare.9jy.cc
-  servername: venom90.pages.dev
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  uuid: ff072857-d08f-4fc9-a52e-30946d0926cd
-  ws-opts:
-    headers:
-      Host: venom90.pages.dev
-    path: /?ed=2048fp=random
-- cipher: chacha20-ietf
-  name: 15|🇯🇵 日本2|@ripaojiedian
-  password: asd123456
-  port: 8388
-  server: 107.148.6.121
-  type: ss
+      Host: foffmelo.com
+    path: /olem/ws?ed=1024
 - cipher: chacha20-ietf-poly1305
   name: 'SS-德国-NF解锁立陶宛自制剧-ChatGPT-84.19.31.63:'
   password: 2EtPqn6HYjUNcHohLfUpFQwnfjCCQ5mh1mJdEMCBucuWZ9P1udkRKHnVxuo55k1KXz2Fo6jrgt18W66opty1e4bm1jzfCfBb
@@ -735,62 +118,56 @@ proxies:
 - cipher: chacha20-ietf-poly1305
   name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:1
   password: G!yBwPWH3Vao
-  port: 807
+  port: 803
   server: 51.178.87.37
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:2
   password: G!yBwPWH3Vao
-  port: 803
+  port: 807
   server: 51.178.87.37
   type: ss
 - cipher: aes-256-gcm
   name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:1
-  password: TEzjfAYq2IjtuoS
-  port: 6697
+  password: KixLvKzwjekG00rm
+  port: 5500
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
   name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:2
-  password: Y6R9pAtvxxzmGC
-  port: 8888
-  server: 54.37.18.75
-  type: ss
-- cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
   password: g5MeD6Ft3CWlJId
   port: 5004
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:3
+  password: Y6R9pAtvxxzmGC
+  port: 8888
+  server: 54.37.18.75
+  type: ss
+- cipher: aes-256-gcm
   name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:4
-  password: KixLvKzwjekG00rm
-  port: 8080
+  password: TEzjfAYq2IjtuoS
+  port: 6697
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
   name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
-  password: RexnBgU7EV5ADxG
-  port: 7002
-  server: 54.37.18.75
-  type: ss
-- cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
   password: pKEW8JPByTVTLtM
   port: 443
   server: 54.37.18.75
   type: ss
 - cipher: aes-256-gcm
-  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
-  password: KixLvKzwjekG00rm
-  port: 5500
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
+  password: RexnBgU7EV5ADxG
+  port: 7002
   server: 54.37.18.75
   type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 'SS-法国-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-51.158.252.130:'
-  password: ongZotTbkFtDICYZyi63nA
-  port: 443
-  server: 51.158.252.130
+- cipher: aes-256-gcm
+  name: SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
+  password: KixLvKzwjekG00rm
+  port: 8080
+  server: 54.37.18.75
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 'SS-波兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:'
@@ -799,21 +176,39 @@ proxies:
   server: 45.144.48.63
   type: ss
 - cipher: chacha20-ietf-poly1305
-  name: 'SS-瑞士-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-138.124.51.236:'
-  password: 3Vkbowf0PLHJkVMmPFjcA7i/j0ABb6EbYtbe/Xrwuds=
-  port: 59923
-  server: 138.124.51.236
+  name: 'SS-立陶宛>荷兰-45.87.175.181:'
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.181
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 45.87.175.157
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.166:'
+  password: QCXDxuDlTTMD7jtgHUjIoj
+  port: 8080
+  server: 45.87.175.166
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
-  password: PCnnH6SQSnfoS27
-  port: 8090
+  password: RexnBgU7EV5ADxG
+  port: 7002
   server: 15.204.87.225
   type: ss
 - cipher: aes-256-gcm
   name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
-  password: RexnBgU7EV5ADxG
-  port: 7002
+  password: FoOiGlkAA9yPEGP
+  port: 7306
+  server: 15.204.87.225
+  type: ss
+- cipher: aes-256-gcm
+  name: SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
+  password: PCnnH6SQSnfoS27
+  port: 8090
   server: 15.204.87.225
   type: ss
 - cipher: chacha20-ietf-poly1305
@@ -860,59 +255,110 @@ proxies:
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:1
-  password: '%-MVa11&zp'
-  port: 19999
-  server: 176.124.199.255
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
   password: Zgg@X0m515
   port: 30252
   server: 176.124.199.255
   type: ss
-- cipher: rc4-md5
-  name: 'SSR-德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:'
+- cipher: chacha20-ietf-poly1305
+  name: SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
+  password: '%-MVa11&zp'
+  port: 19999
+  server: 176.124.199.255
+  type: ss
+- cipher: aes-256-cfb
+  name: 'SSR-波兰-NF解锁立陶宛自制剧-ChatGPT-TikTok-YouTube-217.30.10.18:'
   obfs: plain
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
+  password: wfLC2y7rzZyCmuyt
+  port: 9093
   protocol: origin
-  server: 193.108.119.230
+  server: 217.30.10.18
+  type: ssr
+- cipher: aes-256-cfb
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-52.41.180.11:'
+  obfs: plain
+  password: amazonskr05
+  port: 443
+  protocol: origin
+  server: 52.41.180.11
   type: ssr
 - cipher: rc4-md5
-  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-194.5.215.59:'
+  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-79.110.53.169:'
   obfs: plain
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
   protocol: origin
-  server: 194.5.215.59
-  type: ssr
-- cipher: rc4-md5
-  name: 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.251.121.242:'
-  obfs: plain
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  protocol: origin
-  server: 23.251.121.242
-  type: ssr
-- cipher: rc4-md5
-  name: 'SSR-英国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-169.150.210.233:'
-  obfs: plain
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  protocol: origin
-  server: 169.150.210.233
+  server: 79.110.53.169
   type: ssr
 - alterId: 0
   cipher: auto
-  name: US_b92df_1
+  name: US_59479_1
   network: ws
   port: 8880
-  server: 162.159.45.208
+  server: 104.18.114.143
+  servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_10
+  network: ws
+  port: 8880
+  server: 104.18.114.200
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_11
+  network: ws
+  port: 8880
+  server: 162.159.45.141
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_12
+  network: ws
+  port: 8880
+  server: 104.21.238.44
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_13
+  network: ws
+  port: 8880
+  server: 104.18.114.31
   servername: m20.155857.xyz
   skip-cert-verify: false
   tls: false
   type: vmess
-  udp: true
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
@@ -920,15 +366,74 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: US_b92df_2
+  name: US_59479_14
   network: ws
   port: 8880
-  server: 162.159.45.241
+  server: 104.26.0.12
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_15
+  network: ws
+  port: 8880
+  server: 104.18.114.42
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_16
+  network: ws
+  port: 8880
+  server: 104.26.0.40
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_17
+  network: ws
+  port: 8880
+  server: 104.26.0.118
+  servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_18
+  network: ws
+  port: 8880
+  server: 104.21.238.10
   servername: m20.155857.xyz
   skip-cert-verify: false
   tls: false
   type: vmess
-  udp: true
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
@@ -936,15 +441,14 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: US_b92df_3
+  name: US_59479_19
   network: ws
   port: 8880
-  server: 162.159.45.246
+  server: 104.21.238.128
   servername: m20.155857.xyz
   skip-cert-verify: false
   tls: false
   type: vmess
-  udp: true
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
@@ -952,23 +456,7 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: US_b92df_4
-  network: ws
-  port: 8880
-  server: 162.159.45.238
-  servername: m20.155857.xyz
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: /github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: US_b92df_5
+  name: US_59479_2
   network: ws
   port: 8880
   server: 162.159.45.219
@@ -984,309 +472,472 @@ proxies:
     path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-104.18.114.97:'
+  name: US_59479_20
   network: ws
   port: 8880
-  server: 104.18.114.97
-  servername: m1.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m1.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.100:'
-  network: ws
-  port: 8880
-  server: 162.159.45.100
+  server: 162.159.45.208
   servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
+  udp: true
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
       Host: m20.155857.xyz
-    path: github.com/Alvin9999
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.188:'
-  network: ws
-  port: 8880
-  server: 162.159.45.188
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-ChatGPT-YouTube-104.21.238.63:'
-  network: ws
-  port: 8880
-  server: 104.21.238.63
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-104.26.0.133:'
+  name: US_59479_21
   network: ws
   port: 8880
   server: 104.26.0.133
   servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
       Host: m8.155857.xyz
-    path: github.com/Alvin9999
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-104.21.238.97:'
+  name: US_59479_22
   network: ws
   port: 8880
-  server: 104.21.238.97
-  servername: m1.155857.xyz
+  server: 104.26.0.124
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
-      Host: m1.155857.xyz
-    path: github.com/Alvin9999
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-162.159.45.120:'
+  name: US_59479_23
   network: ws
   port: 2086
-  server: 162.159.45.120
+  server: 104.18.114.14
   servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
   ws-opts:
     headers:
       Host: e1.285581.xyz
-    path: github.com/Alvin9999
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.119:'
-  network: ws
-  port: 2086
-  server: 104.18.114.119
-  servername: e1.285581.xyz
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: e1.285581.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.143:'
+  name: US_59479_24
   network: ws
   port: 8880
-  server: 104.18.114.143
-  servername: m1.155857.xyz
+  server: 104.26.0.3
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
-      Host: m1.155857.xyz
-    path: github.com/Alvin9999
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.147:'
-  network: ws
-  port: 8880
-  server: 104.18.114.147
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.178:'
+  name: US_59479_25
   network: ws
   port: 8880
   server: 104.18.114.178
   servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
       Host: m20.155857.xyz
-    path: github.com/Alvin9999
+    path: /github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.200:'
+  name: US_59479_26
   network: ws
   port: 8880
-  server: 104.18.114.200
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.210:'
-  network: ws
-  port: 8880
-  server: 104.18.114.210
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.219:'
-  network: ws
-  port: 8880
-  server: 104.18.114.219
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.242:'
-  network: ws
-  port: 8880
-  server: 104.18.114.242
+  server: 104.18.114.97
   servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
   type: vmess
   uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
   ws-opts:
     headers:
       Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_27
+  network: ws
+  port: 8880
+  server: 104.21.238.97
+  servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_28
+  network: ws
+  port: 2086
+  server: 104.26.0.5
+  servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e1.285581.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_29
+  network: ws
+  port: 8880
+  server: 104.21.238.203
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_3
+  network: ws
+  port: 2086
+  server: 104.21.238.46
+  servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e1.285581.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_30
+  network: ws
+  port: 8880
+  server: 104.21.238.113
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_31
+  network: ws
+  port: 8880
+  server: 104.21.238.236
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_32
+  network: ws
+  port: 2086
+  server: 104.26.0.98
+  servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e1.285581.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_33
+  network: ws
+  port: 2086
+  server: 104.21.238.195
+  servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e1.285581.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_34
+  network: ws
+  port: 8880
+  server: 104.21.238.27
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_35
+  network: ws
+  port: 8880
+  server: 104.26.0.149
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_36
+  network: ws
+  port: 8880
+  server: 104.18.114.242
+  servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_37
+  network: ws
+  port: 8880
+  server: 104.21.238.193
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_38
+  network: ws
+  port: 8880
+  server: 104.18.114.88
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_39
+  network: ws
+  port: 8880
+  server: 104.18.114.3
+  servername: m1.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m1.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_4
+  network: ws
+  port: 8880
+  server: 104.18.114.219
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_40
+  network: ws
+  port: 8880
+  server: 104.18.114.147
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_5
+  network: ws
+  port: 8880
+  server: 162.159.45.100
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_6
+  network: ws
+  port: 8880
+  server: 162.159.45.246
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_7
+  network: ws
+  port: 8880
+  server: 104.26.0.103
+  servername: m8.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m8.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_8
+  network: ws
+  port: 2086
+  server: 104.18.114.119
+  servername: e1.285581.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e1.285581.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: US_59479_9
+  network: ws
+  port: 8880
+  server: 162.159.45.238
+  servername: m20.155857.xyz
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  ws-opts:
+    headers:
+      Host: m20.155857.xyz
+    path: /github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.104:'
+  network: ws
+  port: 2086
+  server: 104.18.114.104
+  servername: watt-miss-semester-slots.trycloudflare.com
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: watt-miss-semester-slots.trycloudflare.com
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.106:'
+  network: ws
+  port: 2086
+  server: 104.18.114.106
+  servername: watt-miss-semester-slots.trycloudflare.com
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: watt-miss-semester-slots.trycloudflare.com
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.244:'
+  network: ws
+  port: 2086
+  server: 104.18.114.244
+  servername: watt-miss-semester-slots.trycloudflare.com
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: watt-miss-semester-slots.trycloudflare.com
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
   name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.31:'
   network: ws
-  port: 8880
+  port: 2086
   server: 104.18.114.31
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.3:'
-  network: ws
-  port: 8880
-  server: 104.18.114.3
-  servername: m1.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m1.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.42:'
-  network: ws
-  port: 8880
-  server: 104.18.114.42
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.88:'
-  network: ws
-  port: 8880
-  server: 104.18.114.88
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.10:'
-  network: ws
-  port: 8880
-  server: 104.21.238.10
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.113:'
-  network: ws
-  port: 8880
-  server: 104.21.238.113
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.128:'
-  network: ws
-  port: 8880
-  server: 104.21.238.128
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.193:'
-  network: ws
-  port: 8880
-  server: 104.21.238.193
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.195:'
-  network: ws
-  port: 2086
-  server: 104.21.238.195
   servername: e1.285581.xyz
   type: vmess
   uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
@@ -1296,153 +947,23 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.203:'
-  network: ws
-  port: 8880
-  server: 104.21.238.203
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.236:'
-  network: ws
-  port: 8880
-  server: 104.21.238.236
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.27:'
-  network: ws
-  port: 8880
-  server: 104.21.238.27
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.44:'
-  network: ws
-  port: 8880
-  server: 104.21.238.44
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.103:'
-  network: ws
-  port: 8880
-  server: 104.26.0.103
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.118:'
-  network: ws
-  port: 8880
-  server: 104.26.0.118
-  servername: m1.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m1.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.124:'
-  network: ws
-  port: 8880
-  server: 104.26.0.124
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.12:'
-  network: ws
-  port: 8880
-  server: 104.26.0.12
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.149:'
-  network: ws
-  port: 8880
-  server: 104.26.0.149
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.3:'
-  network: ws
-  port: 8880
-  server: 104.26.0.3
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.40:'
-  network: ws
-  port: 8880
-  server: 104.26.0.40
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.5:'
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.19:'
   network: ws
   port: 2086
-  server: 104.26.0.5
+  server: 104.26.0.19
+  servername: e3.285581.xyz
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e3.285581.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.208:'
+  network: ws
+  port: 2086
+  server: 104.26.0.208
   servername: e1.285581.xyz
   type: vmess
   uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
@@ -1452,10 +973,36 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.98:'
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.31:'
   network: ws
   port: 2086
-  server: 104.26.0.98
+  server: 104.26.0.31
+  servername: p46.403677.xyz
+  type: vmess
+  uuid: bc65fac2-7dc7-426f-acdd-0779a5035bde
+  ws-opts:
+    headers:
+      Host: p46.403677.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.94:'
+  network: ws
+  port: 2086
+  server: 104.26.0.94
+  servername: e3.285581.xyz
+  type: vmess
+  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
+  ws-opts:
+    headers:
+      Host: e3.285581.xyz
+    path: github.com/Alvin9999
+- alterId: 0
+  cipher: auto
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.9:'
+  network: ws
+  port: 2086
+  server: 162.159.45.9
   servername: e1.285581.xyz
   type: vmess
   uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
@@ -1465,230 +1012,144 @@ proxies:
     path: github.com/Alvin9999
 - alterId: 0
   cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.117:'
+  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.67.112.27:'
   network: ws
-  port: 8880
-  server: 162.159.45.117
-  servername: m20.155857.xyz
+  port: 2052
+  server: 172.67.112.27
+  servername: 100-158-80-199.s2.cn-db.top
+  skip-cert-verify: true
   type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
+  uuid: e50bb174-f2cb-3081-931e-fa4bfd69f42d
   ws-opts:
     headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.125:'
-  network: ws
-  port: 8880
-  server: 162.159.45.125
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.141:'
-  network: ws
-  port: 8880
-  server: 162.159.45.141
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.148:'
-  network: ws
-  port: 8880
-  server: 162.159.45.148
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.154:'
-  network: ws
-  port: 8880
-  server: 162.159.45.154
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.175:'
-  network: ws
-  port: 2086
-  server: 162.159.45.175
-  servername: e1.285581.xyz
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: e1.285581.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.183:'
-  network: ws
-  port: 2086
-  server: 162.159.45.183
-  servername: watt-miss-semester-slots.trycloudflare.com
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: watt-miss-semester-slots.trycloudflare.com
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.186:'
-  network: ws
-  port: 2086
-  server: 162.159.45.186
-  servername: e1.285581.xyz
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: e1.285581.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.19:'
-  network: ws
-  port: 8880
-  server: 162.159.45.19
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.210:'
-  network: ws
-  port: 2086
-  server: 162.159.45.210
-  servername: watt-miss-semester-slots.trycloudflare.com
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: watt-miss-semester-slots.trycloudflare.com
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.58:'
-  network: ws
-  port: 2086
-  server: 162.159.45.58
-  servername: watt-miss-semester-slots.trycloudflare.com
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: watt-miss-semester-slots.trycloudflare.com
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.71:'
-  network: ws
-  port: 8880
-  server: 162.159.45.71
-  servername: m20.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m20.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.86:'
-  network: ws
-  port: 8880
-  server: 162.159.45.86
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.97:'
-  network: ws
-  port: 8880
-  server: 162.159.45.97
-  servername: m8.155857.xyz
-  type: vmess
-  uuid: 90f8f4dc-8092-4355-9047-05f506f5e9ab
-  ws-opts:
-    headers:
-      Host: m8.155857.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-YouTube-104.21.238.46:'
-  network: ws
-  port: 2086
-  server: 104.21.238.46
-  servername: e1.285581.xyz
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: e1.285581.xyz
-    path: github.com/Alvin9999
-- alterId: 0
-  cipher: auto
-  name: 'VMESS-未知>美国-NF解锁自制剧-YouTube-104.18.114.14:'
-  network: ws
-  port: 2086
-  server: 104.18.114.14
-  servername: e1.285581.xyz
-  type: vmess
-  uuid: 7d92ffc9-02e1-4087-8a46-cc4d76560917
-  ws-opts:
-    headers:
-      Host: e1.285581.xyz
-    path: github.com/Alvin9999
+      HOST: 100-158-80-199.s2.cn-db.top
+    path: /dabai.in104.25.31.219
+- cipher: chacha20-ietf-poly1305
+  name: github.com/Ruk1ng001_1
+  password: xjzsiMfTByKjA9URbdXWNp
+  port: 32091
+  server: 51.120.1.158
+  type: ss
 - cipher: chacha20-ietf-poly1305
   name: github.com/Ruk1ng001_3
+  password: W74XFALLLuw6m5IA
+  port: 443
+  server: series-a1.samanehha.co
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: github.com/Ruk1ng001_4
   password: mps3FwmDjLrWaOVg
   port: 443
   server: series-a2.varzesh360.co
   type: ss
-- name: github.com/Ruk1ng001_6
+- cipher: aes-256-cfb
+  name: ❓_🇯🇵_💼_github.com/Ruk1ng001_2
+  password: amazonskr05
+  port: 443
+  server: 57.181.42.233
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_1
+  password: amazonskr05
+  port: 443
+  server: 43.203.243.93
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_10
+  password: amazonskr05
+  port: 443
+  server: 43.203.122.162
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_11
+  password: amazonskr05
+  port: 443
+  server: 15.165.76.242
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_12
+  password: amazonskr05
+  port: 443
+  server: 43.200.1.13
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_3
+  password: amazonskr05
+  port: 443
+  server: 43.203.198.1
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_5
+  password: amazonskr05
+  port: 443
+  server: 43.202.1.19
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_6
+  password: amazonskr05
+  port: 443
+  server: 43.203.141.93
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_7
+  password: amazonskr05
+  port: 443
+  server: 43.202.45.187
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_8
+  password: amazonskr05
+  port: 443
+  server: 43.201.116.143
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇰🇷_💼_github.com/Ruk1ng001_9
+  password: amazonskr05
+  port: 443
+  server: 52.79.52.119
+  type: ss
+- name: ❓_🇸🇪_💼_github.com/Ruk1ng001_
   network: tcp
   password: telegram-id-privatevpns
   port: 22222
-  server: 54.246.42.178
+  server: 16.170.191.143
   sni: trojan.burgerip.co.uk
   type: trojan
 - cipher: aes-256-cfb
-  name: ❓_🇺🇸_💼_github.com/Ruk1ng001_
+  name: ❓_🇸🇬_💼_github.com/Ruk1ng001_1
+  password: amazonskr05
+  port: 443
+  server: 13.215.172.89
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇸🇬_💼_github.com/Ruk1ng001_2
+  password: amazonskr05
+  port: 443
+  server: 18.141.231.184
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇺🇸_💼_github.com/Ruk1ng001_1
   password: amazonskr05
   port: 443
   server: 35.88.126.102
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇺🇸_💼_github.com/Ruk1ng001_2
+  password: amazonskr05
+  port: 443
+  server: 18.237.72.225
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇺🇸_💼_github.com/Ruk1ng001_3
+  password: amazonskr05
+  port: 443
+  server: 44.243.243.198
+  type: ss
+- cipher: aes-256-cfb
+  name: ❓_🇺🇸_💼_github.com/Ruk1ng001_4
+  password: amazonskr05
+  port: 443
+  server: 52.12.174.108
   type: ss
 - alterId: 0
   cipher: auto
@@ -1705,117 +1166,1025 @@ proxies:
     headers:
       Host: worker-mute-bar-1719.nifotok993.workers.dev
     path: /glweidf.cfd/linkws
+- flow: xtls-rprx-vision
+  name: 台灣03-直連-无审计随缘节点-1A
+  network: tcp
+  port: 30002
+  reality-opts:
+    public-key: YyW3SIQ8ZPzMlIr0GHupAhioBDlDtoc9BzTVwuAngDM
+    short-id: 8b6dc1a5
+  server: vajgb9.chinese-sm.com
+  servername: www.lovelive-anime.jp
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ee0a655-c375-486b-bbe6-abdfc2bd17e1
+- flow: xtls-rprx-vision
+  name: 台灣03-直連-无审计随缘节点-1B
+  network: tcp
+  port: 30002
+  reality-opts:
+    public-key: YyW3SIQ8ZPzMlIr0GHupAhioBDlDtoc9BzTVwuAngDM
+    short-id: 8b6dc1a5
+  server: vajgb9.chinese-sm.com
+  servername: www.lovelive-anime.jp
+  tls: true
+  type: vless
+  udp: true
+  uuid: 9663763d-af28-4d00-acbe-c52a7d0494d9
+- cipher: chacha20-ietf-poly1305
+  name: 欧盟+V2CROSS.COM1
+  password: 1RWwXhwfAB5gAEozU4G2Pg
+  port: 8080
+  server: beesyar.org
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 欧盟+V2CROSS.COM2
+  password: QCXDxuDlTTMD7jtgHUjIoj
+  port: 8080
+  server: 45.87.175.199
+  type: ss
+- name: 爱尔兰+都柏林Amazon数据中心
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 54.72.67.153
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 电报群：https://t.me/vvkj
+  network: ws
+  port: 443
+  server: 185.65.149.44
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
 - alterId: 0
   cipher: auto
-  name: 加拿大 28
+  fingerprint: chrome
+  name: 美国 CloudFlare节点6
   network: ws
-  port: 80
-  server: 104.16.61.8
+  port: 2052
+  server: s2.cn-db.top
+  servername: ''
   skip-cert-verify: true
   tls: false
   type: vmess
-  udp: true
-  uuid: 05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d
+  uuid: e50bb174-f2cb-3081-931e-fa4bfd69f42d
   ws-opts:
     headers:
-      Host: d396-flower-d396.megare7260.workers.dev
-    path: /obdii.cfd/linkws
+      host: 100-158-80-199.s2.cn-db.top
+    path: /dabai.in104.25.31.219
+- name: 美国+Amazon+EC2服务器
+  password: telegram-id-directvpn
+  port: 22222
+  server: 3.137.65.57
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 美国+Amazon数据中心
+  network: tcp
+  password: telegram-id-privatevpns
+  port: 22222
+  server: 13.37.38.67
+  sni: trojan.burgerip.co.uk
+  type: trojan
+- name: 🇨🇦_加拿大
+  network: ws
+  port: 443
+  server: 140.238.158.238
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇨🇭_瑞士_3
+  network: ws
+  port: 8443
+  server: 141.148.242.113
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇳🇱_荷兰_3
+  network: ws
+  port: 443
+  server: 132.226.31.178
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇳🇱_荷兰_5
+  network: ws
+  port: 443
+  server: 158.101.209.76
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇳🇿_新西兰_1
+  network: ws
+  port: 443
+  server: 202.37.33.81
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇳🇿_新西兰_2
+  network: ws
+  port: 443
+  server: 202.37.33.80
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_10
+  network: ws
+  port: 443
+  server: 150.230.42.80
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_11
+  network: ws
+  port: 443
+  server: 152.70.117.174
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_12
+  network: ws
+  port: 8443
+  server: 129.151.225.228
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_13
+  network: ws
+  port: 2053
+  server: 129.151.225.228
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_14
+  network: ws
+  port: 443
+  server: 69.84.182.101
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_15
+  network: ws
+  port: 443
+  server: 69.84.182.95
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_16
+  network: ws
+  port: 443
+  server: 129.151.204.91
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_18
+  network: ws
+  port: 443
+  server: 198.62.62.192
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_20
+  network: ws
+  port: 443
+  server: 192.0.63.72
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_23
+  network: ws
+  port: 443
+  server: 192.0.63.213
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_24
+  network: ws
+  port: 443
+  server: 192.0.63.140
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_25
+  network: ws
+  port: 443
+  server: 160.79.105.201
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_26
+  network: ws
+  port: 443
+  server: 198.62.62.180
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_28
+  network: ws
+  port: 443
+  server: 192.0.63.115
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_29
+  network: ws
+  port: 443
+  server: 69.84.182.94
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_30
+  network: ws
+  port: 443
+  server: 192.0.63.178
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_32
+  network: ws
+  port: 443
+  server: 198.62.62.91
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_33
+  network: ws
+  port: 443
+  server: 192.9.158.188
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_34
+  network: ws
+  port: 443
+  server: 198.62.62.0
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_35
+  network: ws
+  port: 443
+  server: 198.62.62.14
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_36
+  network: ws
+  port: 443
+  server: 160.79.105.212
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_37
+  network: ws
+  port: 443
+  server: 69.84.182.100
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_39
+  network: ws
+  port: 443
+  server: 192.0.54.0
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_40
+  network: ws
+  port: 443
+  server: 206.238.236.184
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_41
+  network: ws
+  port: 443
+  server: 69.84.182.145
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_42
+  network: ws
+  port: 443
+  server: 206.238.236.101
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_43
+  network: ws
+  port: 443
+  server: 63.141.128.179
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_44
+  network: ws
+  port: 443
+  server: 69.84.182.48
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_45
+  network: ws
+  port: 443
+  server: 192.0.63.170
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_47
+  network: ws
+  port: 443
+  server: 63.141.128.99
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_48
+  network: ws
+  port: 2053
+  server: 129.151.198.3
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_49
+  network: ws
+  port: 443
+  server: 129.153.223.37
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_51
+  network: ws
+  port: 443
+  server: 63.141.128.46
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_54
+  network: ws
+  port: 443
+  server: 69.84.182.1
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_55
+  network: ws
+  port: 443
+  server: 198.62.62.37
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_56
+  network: ws
+  port: 443
+  server: 69.84.182.212
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_58
+  network: ws
+  port: 8443
+  server: 129.151.198.3
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_59
+  network: ws
+  port: 443
+  server: 47.90.141.204
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_6
+  network: ws
+  port: 443
+  server: 206.238.237.106
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_60
+  network: ws
+  port: 443
+  server: 198.62.62.78
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_62
+  network: ws
+  port: 443
+  server: 69.84.182.88
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_63
+  network: ws
+  port: 443
+  server: 69.84.182.26
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_66
+  network: ws
+  port: 1443
+  server: 107.173.111.72
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_67
+  network: ws
+  port: 443
+  server: 192.0.54.104
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_68
+  network: ws
+  port: 443
+  server: 69.84.182.97
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_69
+  network: ws
+  port: 18446
+  server: 154.17.21.134
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_7
+  network: ws
+  port: 443
+  server: 129.146.254.39
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_70
+  network: ws
+  port: 443
+  server: 192.0.63.153
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_71
+  network: ws
+  port: 443
+  server: 160.79.105.98
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_72
+  network: ws
+  port: 443
+  server: 192.18.159.129
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_74
+  network: ws
+  port: 443
+  server: 69.84.182.200
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_75
+  network: ws
+  port: 443
+  server: 152.67.231.219
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_77
+  network: ws
+  port: 443
+  server: 198.62.62.27
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_78
+  network: ws
+  port: 443
+  server: 198.62.62.102
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_79
+  network: ws
+  port: 443
+  server: 63.141.128.98
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_8
+  network: ws
+  port: 443
+  server: 69.84.182.31
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇺🇸_美国_9
+  network: ws
+  port: 443
+  server: 129.80.123.71
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇿🇦_南非_1
+  network: ws
+  port: 443
+  server: 160.123.255.0
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
+- name: 🇿🇦_南非_3
+  network: ws
+  port: 443
+  server: 160.123.255.10
+  servername: vb.zhuk.us.kg
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 71ed6628-5870-4d19-8a52-f2a3ba3d4898
+  ws-opts:
+    headers:
+      host: vb.zhuk.us.kg
+    path: /?ed=2560
 - cipher: chacha20-ietf-poly1305
-  name: 拉脱维亚+V2CROSS.COM
+  name: 🔴_🇱🇻_💻_github.com/Ruk1ng001_
   password: f8f7aCzcPKbsF8p3
   port: 990
   server: 46.183.217.232
   type: ss
-- cipher: aes-256-gcm
-  name: 法国+OVH+SAS1
-  password: cdBIDV42DCwnfIN
-  port: 8119
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  name: 法国+OVH+SAS2
-  password: PCnnH6SQSnfoS27
-  port: 8091
-  server: 217.182.198.219
-  type: ss
-- cipher: aes-256-gcm
-  name: 法国+OVH+SAS3
-  password: faBAoD54k87UJG7
-  port: 2376
-  server: 217.182.198.219
-  type: ss
-- name: 美国+惠普公司
-  network: tcp
-  password: telegram-id-privatevpns
-  port: 22222
-  server: 15.237.17.29
-  sni: trojan.burgerip.co.uk
-  type: trojan
-- cipher: aes-128-gcm
-  name: 🇧🇬_保加利亚_1
-  password: shadowsocks
-  port: 443
-  server: 149.34.244.82
-  type: ss
-- cipher: aes-128-gcm
-  name: 🇧🇬_保加利亚_2
-  password: shadowsocks
-  port: 443
-  server: 149.34.244.68
-  type: ss
-- cipher: 2022-blake3-aes-256-gcm
-  name: 🇭🇰 香港1-1A
-  password: NTRmYWY3NDI1ODhhZTY4YThiYTlmODlkMzIwMTFjYjc=:ZmY2YTdjMGMtNzAzYS00MTIyLWIyMGYtN2YzNGExMzY=
-  port: 9001
-  server: hk.tianmaojichang.us.kg
-  type: ss
-- cipher: aes-256-gcm
-  name: 🇺🇸_美国_1
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 167.88.61.235
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸_美国_2
-  password: KrIV7QIoQmMps6L21IrbLv
-  port: 34137
-  server: 51.120.12.78
-  type: ss
-- name: 🇺🇸_美国_203
-  network: tcp
-  password: wkmY1R4EcP
-  port: 443
-  server: 45.32.137.6
-  skip-cert-verify: true
-  type: trojan
-- cipher: chacha20-ietf-poly1305
-  name: 🇺🇸_美国_3
-  password: f8f7aCzcPKbsF8p3
-  port: 990
-  server: 92.118.205.228
-  type: ss
-- cipher: aes-256-gcm
-  name: 🇺🇸_美国_5
-  password: pKEW8JPByTVTLtM
-  port: 443
-  server: 38.75.136.21
-  type: ss
 - cipher: aes-256-cfb
-  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_6
-  password: wfLC2y7rzZyCmuyt
-  port: 9093
+  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_11
+  password: Lp27rqyJq72bZsqX
+  port: 9045
   server: 217.30.10.18
   type: ss
 - cipher: aes-256-cfb
-  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_7
-  password: fG2artUmHfNT2cX7
-  port: 9018
+  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_14
+  password: gYCYXfkUQEs2TaJQ
+  port: 9038
   server: 217.30.10.18
   type: ss
 - cipher: aes-256-cfb
-  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_9
-  password: ZET59LF6DvCC8KVt
-  port: 9005
+  name: 🟠_🇵🇱_💻_github.com/Ruk1ng001_15
+  password: rNBfNuuANFCAk7KB
+  port: 9056
   server: 217.30.10.18
   type: ss
 proxy-groups:
@@ -1835,57 +2204,9 @@ proxy-groups:
   type: select
   filter: .*
   proxies:
-  - 0|--2
-  - 15|CY_speednode_
-  - 15|SE_speednode_1
-  - 15|SE_speednode_2
-  - 15|SE_speednode_3
-  - 15|SE_speednode_5
-  - 15|SE_speednode_6
-  - 15|SE_speednode_7
+  - 0|--4
   - 15|US_speednode_1
-  - 15|US_speednode_10
-  - 15|US_speednode_11
-  - 15|US_speednode_12
-  - 15|US_speednode_13
-  - 15|US_speednode_14
-  - 15|US_speednode_15
-  - 15|US_speednode_17
-  - 15|US_speednode_19
-  - 15|US_speednode_20
-  - 15|US_speednode_25
-  - 15|US_speednode_26
-  - 15|US_speednode_28
-  - 15|US_speednode_3
-  - 15|US_speednode_31
-  - 15|US_speednode_36
-  - 15|US_speednode_37
-  - 15|US_speednode_38
-  - 15|US_speednode_39
-  - 15|US_speednode_4
-  - 15|US_speednode_40
-  - 15|US_speednode_42
-  - 15|US_speednode_45
-  - 15|US_speednode_46
-  - 15|US_speednode_47
-  - 15|US_speednode_49
-  - 15|US_speednode_53
-  - 15|US_speednode_54
-  - 15|US_speednode_55
-  - 15|US_speednode_57
-  - 15|US_speednode_58
-  - 15|US_speednode_59
-  - 15|US_speednode_60
-  - 15|US_speednode_62
-  - 15|US_speednode_63
-  - 15|US_speednode_64
-  - 15|US_speednode_65
-  - 15|US_speednode_66
-  - 15|US_speednode_67
-  - 15|US_speednode_7
-  - 15|US_speednode_8
-  - 15|US_speednode_9
-  - 15|🇯🇵 日本2|@ripaojiedian
+  - 15|US_speednode_2
   - 'SS-德国-NF解锁立陶宛自制剧-ChatGPT-84.19.31.63:'
   - 'SS-法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-51.178.87.37:'
   - SS-法国-NF解锁法国自制剧-ChatGPT-TikTok-51.178.87.37:1
@@ -1897,11 +2218,13 @@ proxy-groups:
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:5
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:6
   - SS-法国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-54.37.18.75:7
-  - 'SS-法国-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-51.158.252.130:'
   - 'SS-波兰-NF解锁波兰自制剧-ChatGPT-TikTok-YouTube-45.144.48.63:'
-  - 'SS-瑞士-NF解锁德国地区非自制剧-ChatGPT-TikTok-YouTube-138.124.51.236:'
+  - 'SS-立陶宛>荷兰-45.87.175.181:'
+  - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.157:'
+  - 'SS-立陶宛>荷兰-NF解锁荷兰自制剧-ChatGPT-TikTok-YouTube-45.87.175.166:'
   - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
   - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:1
@@ -1911,89 +2234,159 @@ proxy-groups:
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
   - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:1
   - SS-荷兰-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-YouTube-176.124.199.255:2
-  - 'SSR-德国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-193.108.119.230:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-194.5.215.59:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.251.121.242:'
-  - 'SSR-英国-NF解锁德国自制剧-ChatGPT-TikTok-YouTube-169.150.210.233:'
-  - US_b92df_1
-  - US_b92df_2
-  - US_b92df_3
-  - US_b92df_4
-  - US_b92df_5
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-104.18.114.97:'
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.100:'
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.188:'
-  - 'VMESS-未知>美国-ChatGPT-YouTube-104.21.238.63:'
-  - 'VMESS-未知>美国-NF解锁自制剧-104.26.0.133:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-104.21.238.97:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-162.159.45.120:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.119:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.143:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.147:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.178:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.200:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.210:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.219:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.242:'
+  - 'SSR-波兰-NF解锁立陶宛自制剧-ChatGPT-TikTok-YouTube-217.30.10.18:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-52.41.180.11:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-79.110.53.169:'
+  - US_59479_1
+  - US_59479_10
+  - US_59479_11
+  - US_59479_12
+  - US_59479_13
+  - US_59479_14
+  - US_59479_15
+  - US_59479_16
+  - US_59479_17
+  - US_59479_18
+  - US_59479_19
+  - US_59479_2
+  - US_59479_20
+  - US_59479_21
+  - US_59479_22
+  - US_59479_23
+  - US_59479_24
+  - US_59479_25
+  - US_59479_26
+  - US_59479_27
+  - US_59479_28
+  - US_59479_29
+  - US_59479_3
+  - US_59479_30
+  - US_59479_31
+  - US_59479_32
+  - US_59479_33
+  - US_59479_34
+  - US_59479_35
+  - US_59479_36
+  - US_59479_37
+  - US_59479_38
+  - US_59479_39
+  - US_59479_4
+  - US_59479_40
+  - US_59479_5
+  - US_59479_6
+  - US_59479_7
+  - US_59479_8
+  - US_59479_9
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.104:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.106:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.244:'
   - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.31:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.3:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.42:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.88:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.10:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.113:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.128:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.193:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.195:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.203:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.236:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.27:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.44:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.103:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.118:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.124:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.12:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.149:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.3:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.40:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.5:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.98:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.117:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.125:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.141:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.148:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.154:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.175:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.183:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.186:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.19:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.210:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.58:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.71:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.86:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.97:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-YouTube-104.21.238.46:'
-  - 'VMESS-未知>美国-NF解锁自制剧-YouTube-104.18.114.14:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.19:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.208:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.31:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.94:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.9:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.67.112.27:'
+  - github.com/Ruk1ng001_1
   - github.com/Ruk1ng001_3
-  - github.com/Ruk1ng001_6
-  - ❓_🇺🇸_💼_github.com/Ruk1ng001_
+  - github.com/Ruk1ng001_4
+  - ❓_🇯🇵_💼_github.com/Ruk1ng001_2
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_1
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_10
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_11
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_12
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_3
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_5
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_6
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_7
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_8
+  - ❓_🇰🇷_💼_github.com/Ruk1ng001_9
+  - ❓_🇸🇪_💼_github.com/Ruk1ng001_
+  - ❓_🇸🇬_💼_github.com/Ruk1ng001_1
+  - ❓_🇸🇬_💼_github.com/Ruk1ng001_2
+  - ❓_🇺🇸_💼_github.com/Ruk1ng001_1
+  - ❓_🇺🇸_💼_github.com/Ruk1ng001_2
+  - ❓_🇺🇸_💼_github.com/Ruk1ng001_3
+  - ❓_🇺🇸_💼_github.com/Ruk1ng001_4
   - 俄罗斯 1
-  - 加拿大 28
-  - 拉脱维亚+V2CROSS.COM
-  - 法国+OVH+SAS1
-  - 法国+OVH+SAS2
-  - 法国+OVH+SAS3
-  - 美国+惠普公司
-  - 🇧🇬_保加利亚_1
-  - 🇧🇬_保加利亚_2
-  - 🇭🇰 香港1-1A
-  - 🇺🇸_美国_1
-  - 🇺🇸_美国_2
-  - 🇺🇸_美国_203
-  - 🇺🇸_美国_3
-  - 🇺🇸_美国_5
-  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_6
-  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_7
-  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_9
+  - 台灣03-直連-无审计随缘节点-1A
+  - 台灣03-直連-无审计随缘节点-1B
+  - 欧盟+V2CROSS.COM1
+  - 欧盟+V2CROSS.COM2
+  - 爱尔兰+都柏林Amazon数据中心
+  - 电报群：https://t.me/vvkj
+  - 美国 CloudFlare节点6
+  - 美国+Amazon+EC2服务器
+  - 美国+Amazon数据中心
+  - 🇨🇦_加拿大
+  - 🇨🇭_瑞士_3
+  - 🇳🇱_荷兰_3
+  - 🇳🇱_荷兰_5
+  - 🇳🇿_新西兰_1
+  - 🇳🇿_新西兰_2
+  - 🇺🇸_美国_10
+  - 🇺🇸_美国_11
+  - 🇺🇸_美国_12
+  - 🇺🇸_美国_13
+  - 🇺🇸_美国_14
+  - 🇺🇸_美国_15
+  - 🇺🇸_美国_16
+  - 🇺🇸_美国_18
+  - 🇺🇸_美国_20
+  - 🇺🇸_美国_23
+  - 🇺🇸_美国_24
+  - 🇺🇸_美国_25
+  - 🇺🇸_美国_26
+  - 🇺🇸_美国_28
+  - 🇺🇸_美国_29
+  - 🇺🇸_美国_30
+  - 🇺🇸_美国_32
+  - 🇺🇸_美国_33
+  - 🇺🇸_美国_34
+  - 🇺🇸_美国_35
+  - 🇺🇸_美国_36
+  - 🇺🇸_美国_37
+  - 🇺🇸_美国_39
+  - 🇺🇸_美国_40
+  - 🇺🇸_美国_41
+  - 🇺🇸_美国_42
+  - 🇺🇸_美国_43
+  - 🇺🇸_美国_44
+  - 🇺🇸_美国_45
+  - 🇺🇸_美国_47
+  - 🇺🇸_美国_48
+  - 🇺🇸_美国_49
+  - 🇺🇸_美国_51
+  - 🇺🇸_美国_54
+  - 🇺🇸_美国_55
+  - 🇺🇸_美国_56
+  - 🇺🇸_美国_58
+  - 🇺🇸_美国_59
+  - 🇺🇸_美国_6
+  - 🇺🇸_美国_60
+  - 🇺🇸_美国_62
+  - 🇺🇸_美国_63
+  - 🇺🇸_美国_66
+  - 🇺🇸_美国_67
+  - 🇺🇸_美国_68
+  - 🇺🇸_美国_69
+  - 🇺🇸_美国_7
+  - 🇺🇸_美国_70
+  - 🇺🇸_美国_71
+  - 🇺🇸_美国_72
+  - 🇺🇸_美国_74
+  - 🇺🇸_美国_75
+  - 🇺🇸_美国_77
+  - 🇺🇸_美国_78
+  - 🇺🇸_美国_79
+  - 🇺🇸_美国_8
+  - 🇺🇸_美国_9
+  - 🇿🇦_南非_1
+  - 🇿🇦_南非_3
+  - 🔴_🇱🇻_💻_github.com/Ruk1ng001_
+  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_11
+  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_14
+  - 🟠_🇵🇱_💻_github.com/Ruk1ng001_15
 - name: Fallback
   type: fallback
   url: http://www.google.com/generate_204
@@ -2010,7 +2403,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - 🇭🇰 香港1-1A
+  - DIRECT
   filter: (?i)港|HK|HongKong|hong kong
 - name: TW
   type: url-test
@@ -2026,7 +2419,7 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - 15|🇯🇵 日本2|@ripaojiedian
+  - DIRECT
   filter: (?i)日|东京|大阪|JP|Japan|Tokyo|Osaka|Saitama
 - name: SG
   type: url-test
@@ -2034,7 +2427,8 @@ proxy-groups:
   interval: 600
   tolerance: 500
   proxies:
-  - DIRECT
+  - 🇳🇿_新西兰_1
+  - 🇳🇿_新西兰_2
   filter: (?i)新|狮城|SG|Singapore
 - name: US
   type: url-test
@@ -2043,49 +2437,10 @@ proxy-groups:
   tolerance: 500
   proxies:
   - 15|US_speednode_1
-  - 15|US_speednode_10
-  - 15|US_speednode_11
-  - 15|US_speednode_12
-  - 15|US_speednode_13
-  - 15|US_speednode_14
-  - 15|US_speednode_15
-  - 15|US_speednode_17
-  - 15|US_speednode_19
-  - 15|US_speednode_20
-  - 15|US_speednode_25
-  - 15|US_speednode_26
-  - 15|US_speednode_28
-  - 15|US_speednode_3
-  - 15|US_speednode_31
-  - 15|US_speednode_36
-  - 15|US_speednode_37
-  - 15|US_speednode_38
-  - 15|US_speednode_39
-  - 15|US_speednode_4
-  - 15|US_speednode_40
-  - 15|US_speednode_42
-  - 15|US_speednode_45
-  - 15|US_speednode_46
-  - 15|US_speednode_47
-  - 15|US_speednode_49
-  - 15|US_speednode_53
-  - 15|US_speednode_54
-  - 15|US_speednode_55
-  - 15|US_speednode_57
-  - 15|US_speednode_58
-  - 15|US_speednode_59
-  - 15|US_speednode_60
-  - 15|US_speednode_62
-  - 15|US_speednode_63
-  - 15|US_speednode_64
-  - 15|US_speednode_65
-  - 15|US_speednode_66
-  - 15|US_speednode_67
-  - 15|US_speednode_7
-  - 15|US_speednode_8
-  - 15|US_speednode_9
+  - 15|US_speednode_2
   - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:1
   - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:2
+  - SS-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-15.204.87.225:3
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:1
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.62:2
   - SS-美国-NF解锁英国自制剧-ChatGPT-TikTok-YouTube-150.241.95.63:1
@@ -2093,72 +2448,118 @@ proxy-groups:
   - 'SS-美国-NF解锁荷兰地区非自制剧-ChatGPT-TikTok-150.241.68.171:'
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-23.157.40.47:'
   - 'SS-美国>法国-NF解锁法国地区非自制剧-ChatGPT-TikTok-YouTube-23.157.40.103:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-194.5.215.59:'
-  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-23.251.121.242:'
-  - US_b92df_1
-  - US_b92df_2
-  - US_b92df_3
-  - US_b92df_4
-  - US_b92df_5
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-104.18.114.97:'
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.100:'
-  - 'VMESS-未知>美国-ChatGPT-TikTok-YouTube-162.159.45.188:'
-  - 'VMESS-未知>美国-ChatGPT-YouTube-104.21.238.63:'
-  - 'VMESS-未知>美国-NF解锁自制剧-104.26.0.133:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-104.21.238.97:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-162.159.45.120:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.119:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.143:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.147:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.178:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.200:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.210:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.219:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.242:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-52.41.180.11:'
+  - 'SSR-美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-79.110.53.169:'
+  - US_59479_1
+  - US_59479_10
+  - US_59479_11
+  - US_59479_12
+  - US_59479_13
+  - US_59479_14
+  - US_59479_15
+  - US_59479_16
+  - US_59479_17
+  - US_59479_18
+  - US_59479_19
+  - US_59479_2
+  - US_59479_20
+  - US_59479_21
+  - US_59479_22
+  - US_59479_23
+  - US_59479_24
+  - US_59479_25
+  - US_59479_26
+  - US_59479_27
+  - US_59479_28
+  - US_59479_29
+  - US_59479_3
+  - US_59479_30
+  - US_59479_31
+  - US_59479_32
+  - US_59479_33
+  - US_59479_34
+  - US_59479_35
+  - US_59479_36
+  - US_59479_37
+  - US_59479_38
+  - US_59479_39
+  - US_59479_4
+  - US_59479_40
+  - US_59479_5
+  - US_59479_6
+  - US_59479_7
+  - US_59479_8
+  - US_59479_9
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.104:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.106:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.244:'
   - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.31:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.3:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.42:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.18.114.88:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.10:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.113:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.128:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.193:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.195:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.203:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.236:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.27:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.21.238.44:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.103:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.118:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.124:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.12:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.149:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.3:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.40:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.5:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.98:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.117:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.125:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.141:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.148:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.154:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.175:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.183:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.186:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.19:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.210:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.58:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.71:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.86:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.97:'
-  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-YouTube-104.21.238.46:'
-  - 'VMESS-未知>美国-NF解锁自制剧-YouTube-104.18.114.14:'
-  - 美国+惠普公司
-  - 🇺🇸_美国_1
-  - 🇺🇸_美国_2
-  - 🇺🇸_美国_203
-  - 🇺🇸_美国_3
-  - 🇺🇸_美国_5
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.19:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.208:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.31:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-104.26.0.94:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-162.159.45.9:'
+  - 'VMESS-未知>美国-NF解锁自制剧-ChatGPT-TikTok-YouTube-172.67.112.27:'
+  - 美国 CloudFlare节点6
+  - 美国+Amazon+EC2服务器
+  - 美国+Amazon数据中心
+  - 🇺🇸_美国_10
+  - 🇺🇸_美国_11
+  - 🇺🇸_美国_12
+  - 🇺🇸_美国_13
+  - 🇺🇸_美国_14
+  - 🇺🇸_美国_15
+  - 🇺🇸_美国_16
+  - 🇺🇸_美国_18
+  - 🇺🇸_美国_20
+  - 🇺🇸_美国_23
+  - 🇺🇸_美国_24
+  - 🇺🇸_美国_25
+  - 🇺🇸_美国_26
+  - 🇺🇸_美国_28
+  - 🇺🇸_美国_29
+  - 🇺🇸_美国_30
+  - 🇺🇸_美国_32
+  - 🇺🇸_美国_33
+  - 🇺🇸_美国_34
+  - 🇺🇸_美国_35
+  - 🇺🇸_美国_36
+  - 🇺🇸_美国_37
+  - 🇺🇸_美国_39
+  - 🇺🇸_美国_40
+  - 🇺🇸_美国_41
+  - 🇺🇸_美国_42
+  - 🇺🇸_美国_43
+  - 🇺🇸_美国_44
+  - 🇺🇸_美国_45
+  - 🇺🇸_美国_47
+  - 🇺🇸_美国_48
+  - 🇺🇸_美国_49
+  - 🇺🇸_美国_51
+  - 🇺🇸_美国_54
+  - 🇺🇸_美国_55
+  - 🇺🇸_美国_56
+  - 🇺🇸_美国_58
+  - 🇺🇸_美国_59
+  - 🇺🇸_美国_6
+  - 🇺🇸_美国_60
+  - 🇺🇸_美国_62
+  - 🇺🇸_美国_63
+  - 🇺🇸_美国_66
+  - 🇺🇸_美国_67
+  - 🇺🇸_美国_68
+  - 🇺🇸_美国_69
+  - 🇺🇸_美国_7
+  - 🇺🇸_美国_70
+  - 🇺🇸_美国_71
+  - 🇺🇸_美国_72
+  - 🇺🇸_美国_74
+  - 🇺🇸_美国_75
+  - 🇺🇸_美国_77
+  - 🇺🇸_美国_78
+  - 🇺🇸_美国_79
+  - 🇺🇸_美国_8
+  - 🇺🇸_美国_9
   filter: (?i)美|洛杉矶|芝加哥|西雅图|America|US|United.*?States
 - name: OpenAI
   type: url-test
